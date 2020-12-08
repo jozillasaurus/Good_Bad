@@ -20,7 +20,7 @@ puts "#{User.count} users created"
 
 puts "#{Review.count} reviews created"
 
-@post1 = Review.create!(name: 'pizza', reviews: [@review1, @review2], user: @admin)
+@post1 = Post.create!(name: 'pizza', reviews: [@review1, @review2], user: @admin)
 
 @post2 = Post.create!(name: 'sushi', user: @admin)
 
