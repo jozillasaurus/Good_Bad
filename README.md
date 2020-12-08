@@ -91,15 +91,15 @@ src
 | Task                     | Priority | Estimated Time | Time Invested | Actual Time |
 | ------------------------ | :------: | :------------: | :-----------: | :---------: |
 | Back End                 |    H     |     4 hrs      |     2 hrs     |    3 hrs    |
-| Create CRUD Actions      |    H     |     4 hrs      |     1 hrs     |     TBD     |
-| Sign Up/Sign In pages    |    H     |     3 hrs      |     1 hrs     |     TBD     |
-| Token Authentication     |    H     |     4 hrs      |     1 hrs     |     TBD     |
-| Build Nav and Hamburger  |    H     |     4 hrs      |     1 hrs     |     TBD     |
-| Create HomePage          |    H     |     2 hrs      |     1 hrs     |     TBD     |
-| Create Review Components |    H     |     4 hrs      |     1 hrs     |     TBD     |
-| Create CRUD Actions      |    H     |     4 hrs      |     1 hrs     |     TBD     |
-| About Page               |    H     |     2 hrs      |     1 hrs     |     TBD     |
-| CSS                      |    H     |     5 hrs      |     1 hrs     |     TBD     |
+| Create CRUD Actions      |    H     |     4 hrs      |     1 hrs     |    4 hrs    |
+| Sign Up/Sign In pages    |    H     |     3 hrs      |     1 hrs     |    3 hrs    |
+| Token Authentication     |    H     |     4 hrs      |     1 hrs     |   18 hrs    |
+| Build Nav and Hamburger  |    H     |     4 hrs      |     1 hrs     |    2 hrs    |
+| Create HomePage          |    H     |     2 hrs      |     1 hrs     |    2 hrs    |
+| Create Review Components |    H     |     4 hrs      |     1 hrs     |    3 hrs    |
+| Create CRUD Actions      |    H     |     4 hrs      |     1 hrs     |    3 hrs    |
+| About Page               |    H     |     2 hrs      |     1 hrs     |    1 hrs    |
+| CSS                      |    H     |     5 hrs      |     1 hrs     |    2 hrs    |
 | TOTAL                    |          |     36 hrs     |     3 hrs     |     TBD     |
 
 <br>
